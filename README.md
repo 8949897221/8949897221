@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">ML enthusiast turning data into intelligence from India</h3>
-<img src="https://www.infiraise.com/wp-content/uploads/2021/09/Hire-AI-ML-Engineer.jpg" alt="AI ML Engineer" width="600" height="400">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8949897221&label=Profile%20views&color=0e75b6&style=flat" alt="8949897221" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8949897221" alt="8949897221" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Pandas,numpy,pytorch,opencv**
 
