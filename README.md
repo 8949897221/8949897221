@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">ML enthusiast turning data into intelligence from India</h3>
 
-![Coder at Work]([(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1NzEzbjVzbDBqeWVseDZlMjI5ZjNnb3B1bHB2djZkbHNscnA2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)])
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1NzEzbjVzbDBqeWVseDZlMjI5ZjNnb3B1bHB2djZkbHNscnA2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8949897221&label=Profile%20views&color=0e75b6&style=flat" alt="8949897221" /> </p>
 
