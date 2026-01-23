@@ -1,95 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vansh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20%26%20Engineering&descAlignY=51&descAlign=50"/>
-</div>
-<div align="center">
-Show Image
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=B.Tech+CSE+'27;Machine+Learning+%7C+Artificial+Intelligence;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
-
-<div align="center">
-```console
-vansh@dev:~$ whoami
-B.Tech Computer Science & Engineering Student | Class of 2027
-Focus: Machine Learning, AI, and Data-Driven Systems
-Location: India
-vansh@dev:~$ focus --current
-├── Machine Learning & Artificial Intelligence
-├── Data Structures & Algorithms
-├── Data Analysis & Visualization
-└── Building Scalable Software Systems
-vansh@dev:~$ tech --stack
-Languages    : Python, C++, C, Java, JavaScript
-ML/AI        : PyTorch, NumPy, Pandas, OpenCV
-Database     : MySQL, SQL
-Tools        : Git, Bash, Linux, VS Code
-Web          : Bootstrap, HTML/CSS
-vansh@dev:~$ strengths
-
-Strong foundation in computer science fundamentals
-Problem-solving through algorithmic thinking
-Consistent learning and practice over short-term motivation
-Focus on real-world applications and scalable solutions
-
-vansh@dev:~$ vision
-Building intelligent, impactful software systems that solve meaningful problems.
-Long-term: Contribute to cutting-edge ML/AI systems at scale.
-vansh@dev:~$ █
-
-</div>
-
----
-
-<div align="center">
-
-### Technologies
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,pytorch,numpy,mysql,git,github,bash,linux,vscode,opencv&perline=7" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=8949897221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=8949897221&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8949897221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=8949897221&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-<div align="center">
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh.)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/vansh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vansh_45)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vansh_yadav_45)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshyadav2808@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-*"Discipline is choosing between what you want now and what you want most."*
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=VANSH&fontSize=60&fontAlignY=40"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=28&duration=3500&pause=700&color=4F8EF7&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+%7C+Class+of+2027;Machine+Learning+%26+AI+Focused+Engineer;Building+Systems+with+Strong+Foundations" /> </p> <p align="center"> A Computer Science undergraduate from India, deliberately focused on mastering fundamentals and applying Machine Learning to meaningful, real-world problems. </p> <p align="center"> Machine Learning • Artificial Intelligence • Data Analysis • Software Engineering </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=8949897221&label=Profile%20Views&style=flat-square"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=8949897221&theme=flat&row=1&margin-w=15"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/> </p> <p align="center"> I don’t chase shortcuts. I focus on understanding how systems work — from data structures and memory to models, data pipelines, and intelligent decision-making. </p> <p align="center"> My learning philosophy is simple: <b>strong fundamentals → scalable thinking → real impact</b> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bootstrap,mysql,git,github,bash,pytorch,opencv&perline=8"/> </p> <p align="center"> From low-level logic in C/C++ to data-driven experimentation using Python, Pandas, and PyTorch, my toolkit reflects both depth and intentional growth. </p>
+<p align="center"> <b>Core Areas I Actively Strengthen</b> </p> <p align="center"> Data Structures & Algorithms Object-Oriented Programming Database Management Systems (SQL) Operating Systems (Fundamentals) Computer Networks (Fundamentals) </p>
+<p align="center"> I’m especially interested in building intelligent systems that are: </p> <p align="center"> ⚙️ Efficient &nbsp;•&nbsp; 📈 Scalable &nbsp;•&nbsp; 🧠 Data-Driven &nbsp;•&nbsp; 🧩 Well-Engineered </p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshyadav45&show_icons=true&hide_border=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshyadav45&layout=compact&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshyadav45&hide_border=true"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> Beyond code, I value discipline, long-term thinking, and consistency. I aim to grow into an engineer who builds systems that last — not just demos. </p>
+<p align="center"> <a href="https://linkedin.com/in/vansh."> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/> </a> <a href="https://www.leetcode.com/vansh"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36"/> </a> <a href="https://www.codechef.com/users/vansh_45"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="36"/> </a> <a href="https://instagram.com/vansh_yadav_45"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/> </a> </p> <p align="center"> 📧 vanshyadav2808@gmail.com </p>
+<p align="center"> <i>“Talent opens doors. Discipline keeps them open.”</i> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer"/> </p>
